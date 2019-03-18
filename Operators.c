@@ -27,6 +27,18 @@ int main() {
     */
     res = 1 + 4;
 
+    // Compound Assignment
+    /*
+        +=
+        -=
+        *=
+        /=
+        %=
+    */
+
+    res += a;  // res = res + a;
+
+
     // Incr/Decr
     /*
         a++ post incr
