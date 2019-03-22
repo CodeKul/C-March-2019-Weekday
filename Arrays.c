@@ -26,7 +26,5 @@ int main() {
     }    
     printf("String value: %s\n", str);
 
-
-
     return 0;
 }
